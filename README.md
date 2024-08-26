@@ -1,1 +1,1 @@
-# PG
+# InMate (Paying Guest System)
